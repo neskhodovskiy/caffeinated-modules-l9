@@ -1,6 +1,6 @@
 {
-    "name": "caffeinated/modules",
-    "description": "Laravel Modules",
+    "name": "neskodi/caffeinated-modules-l9",
+    "description": "A Fork of Caffeinated Laravel Modules with added support for Laravel 9",
     "keywords": ["modules", "laravel", "caffeinated"],
     "license": "MIT",
     "authors": [
